@@ -71,7 +71,7 @@ class QFXScraper:
 
             match = EVENT_ID_PATTERN.match(detail)
             if match:
-                data["event_id"] = match.group()
+                data["event_id"] = match.groupdict()['event_id']
                 movie = Movie(**data)
                 movies.append(movie)
             else:
