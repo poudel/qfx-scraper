@@ -15,7 +15,7 @@ URL = 'https://github.com/poudel/qfx-scraper'
 EMAIL = 'self@keshab.net'
 AUTHOR = 'keshaB Paudel'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = "1.0.1"
+VERSION = "1.0.3"
 
 # What packages are required for this module to be executed?
 REQUIRED = [
