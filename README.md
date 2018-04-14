@@ -5,10 +5,10 @@ A simple scrapper for [https://qfxcinemas.com](https://qfxcinemas.com) site.
 
 ## Usage
 
-Install the `requests-html` by running:
+Install the `qfx-scraper` package by running:
 
 ```bash
-pipenv install requests-html
+pipenv install qfx-scraper
 ```
 
 Now you can test the scraper.

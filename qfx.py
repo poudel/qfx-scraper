@@ -3,7 +3,7 @@ import os
 from requests_html import HTMLSession
 
 
-EVENT_ID_PATTERN = re.compile(r".*EventID=(?P<event_id>)\d{4,8}")
+EVENT_ID_PATTERN = re.compile(r".*EventID=(?P<event_id>\d{4,8})")
 BASE_URL = os.environ.get("BASE_URL", "https://qfxcinemas.com")
 
 

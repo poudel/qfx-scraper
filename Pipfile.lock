@@ -110,9 +110,9 @@
         },
         "pyppeteer": {
             "hashes": [
-                "sha256:caedc32a9067df9f22370deb89d6167b9d63ae97adcff0c9cdd9c4d3c2f8b09e"
+                "sha256:5366e416f2d9f557e60ee5a75bea112c5d7b75805db35d7140a2cbd2c8a6a55b"
             ],
-            "version": "==0.0.16"
+            "version": "==0.0.17"
         },
         "pyquery": {
             "hashes": [
@@ -224,10 +224,10 @@
         },
         "tqdm": {
             "hashes": [
-                "sha256:05e991ecb0f874046ddcb374396a626afd046fb4d31f73633ea752b844458a7a",
-                "sha256:2aea9f81fdf127048667e0ba22f5fc10ebc879fb838dc52dcf055242037ec1f7"
+                "sha256:059e7dd579f2c1a2b9103a8ec76fb0bc32cc16904d7d65977edfed6b5745dc48",
+                "sha256:a180389a780f6b52268c30f40fdcb0443ab3d925574579d987eadf10c59ff90c"
             ],
-            "version": "==4.19.8"
+            "version": "==4.22.0"
         },
         "twine": {
             "hashes": [
